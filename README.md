@@ -1,4 +1,4 @@
-### HR ATTRTION ANALYSIS PROJECT ###
+#### HR ATTRTION ANALYSIS PROJECT ####
 ## Excel Cleaning SQL Queries Power BI Dashboard ##
 This project is a complete end to end data analysis workflow using the HR Attrition Dataset. It covers data cleaning in Excel, generating insightful SQL queries, and building an interactive Power BI report for Attrition rate, Gender, Monthly income, Monthly Rate.
 ## Project Overview ##
